@@ -1,0 +1,7 @@
+defaults:
+  - default_config_eval
+visualize_interval: -1
+exp_dir: ./outputs/bidastereo_DR
+sample_len: 150
+MODEL:
+    model_name: BiDAStereoModel
