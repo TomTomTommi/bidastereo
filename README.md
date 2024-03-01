@@ -24,7 +24,7 @@ Installation of BiDAStereo with PyTorch3D, PyTorch 1.12.1 & cuda 11.3
 
 ### Setup the root for all source files:
 ```
-git clone https://github.com/tomtomtommi/bidastereo
+git clone https://github.com/TomTomTommi/BiDAStereo
 cd bidastereo
 export PYTHONPATH=`(cd ../ && pwd)`:`pwd`:$PYTHONPATH
 ```
