@@ -6,7 +6,7 @@
 
 [[`Paper`](https://arxiv.com)] [[`Project`](https://tomtomtommi.github.io/BiDAStereo/)]
 
-https://github.com/TomTomTommi/TomTomTommi.github.io/tree/main/BiDAStereo/videos/Reading.mp4
+![Reading](./assets/Reading.gif)
 
 ## Dataset
 
