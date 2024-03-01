@@ -43,8 +43,8 @@ pip install -r requirements.txt
 ## Evaluation
 To download the checkpoints, click the links below. Copy the checkpoints to `./bidastereo/checkpoints/`.
 
-- [BiDAStereo](https://dl.fbaipublicfiles.com/dynamic_replica_v1/dynamic_stereo_sf.pth) trained on SceneFlow
-- [BiDAStereo](https://dl.fbaipublicfiles.com/dynamic_replica_v1/dynamic_stereo_dr_sf.pth) trained on SceneFlow and *Dynamic Replica*
+- [BiDAStereo](https://github.com/TomTomTommi/BiDAStereo/releases/tag/v0.0) trained on SceneFlow
+- [BiDAStereo](https://github.com/TomTomTommi/BiDAStereo/releases/tag/v0.0) trained on SceneFlow and Dynamic Replica
 
 To evaluate BiDAStereo:
 ```
