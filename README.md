@@ -71,6 +71,6 @@ If you use BiDAStereo in your research, please use the following BibTeX entry.
 ```
 ## Acknowledgement
 
-In this project, we use parts of codes in:
+In this project, we use parts of public codes and thank the authors for their contribution in:
 - [DynamicStereo](https://github.com/facebookresearch/dynamic_stereo)
 - [RAFT](https://github.com/princeton-vl/RAFT)
