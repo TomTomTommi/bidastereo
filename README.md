@@ -14,7 +14,7 @@ Download the following datasets and put in `./data/datasets`:
  - [SceneFlow](https://lmb.informatik.uni-freiburg.de/resources/datasets/SceneFlowDatasets.en.html)
  - [Sintel](http://sintel.is.tue.mpg.de/stereo)
 
-Download the following dataset and link to the project `ln -s ./Dynamic_Replica_path ./bidastereo/`:
+Download the following dataset and link to the project `ln -s ./dynamic_replica ./bidastereo/`:
  - [Dynamic_Replica](https://dynamic-stereo.github.io/)
 
 
