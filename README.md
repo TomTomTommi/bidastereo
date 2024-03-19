@@ -4,7 +4,7 @@
 
 [Junpeng Jing](https://nikitakaraevv.github.io/), [Ye Mao](https://yebulabula.github.io/), [Krystian Mikolajczyk](https://www.imperial.ac.uk/people/k.mikolajczyk)
 
-[[`Paper`](https://arxiv.com)] [[`Project`](https://tomtomtommi.github.io/BiDAStereo/)]
+[[`Paper`](https://arxiv.org/abs/2403.10755)] [[`Project`](https://tomtomtommi.github.io/BiDAStereo/)]
 
 ![Reading](./assets/Reading.gif)
 
