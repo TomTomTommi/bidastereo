@@ -1,4 +1,4 @@
-# Match-Stereo-Videos: Bidirectional Alignment for Consistent Dynamic Stereo Matching.
+# [ECCV 2024] Match-Stereo-Videos: Bidirectional Alignment for Consistent Dynamic Stereo Matching.
 
 **[Imperial College London](https://www.imperial.ac.uk/)**
 
