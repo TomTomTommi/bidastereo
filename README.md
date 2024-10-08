@@ -8,8 +8,8 @@
 
 ![Reading](./assets/Reading.gif)
 
-## New
-The extension of this work is [[`BiDAVideo`](https://tomtomtommi.github.io/BiDAVideo/)]
+## Updated
+The extension of this work is [[`BiDAVideo`](https://github.com/TomTomTommi/bidavideo)]
 
 ## Dataset
 
