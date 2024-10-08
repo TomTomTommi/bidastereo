@@ -8,6 +8,9 @@
 
 ![Reading](./assets/Reading.gif)
 
+## New
+The extension of this work is [[`BiDAVideo`](https://tomtomtommi.github.io/BiDAVideo/)]
+
 ## Dataset
 
 Download the following datasets and put in `./data/datasets`:
