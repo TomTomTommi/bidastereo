@@ -54,7 +54,7 @@ To evaluate BiDAStereo:
 sh evaluate_bidastereo.sh
 sh evaluate_real.sh
 ```
-The results are evaluated on an A6000 40GB GPU.
+The results are evaluated on an A6000 48GB GPU.
 Evaluation on *Dynamic Replica* requires a 32GB GPU. If you don't have enough GPU memory, you can modify `kernel_size` from 20 to 10.
 
 ## Training
