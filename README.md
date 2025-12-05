@@ -66,13 +66,13 @@ sh train_bidastereo.sh
 ## Citing BiDAStereo
 If you use BiDAStereo in your research, please use the following BibTeX entry.
 ```
-@article{jing2024matchstereovideos,
-  title={Match-Stereo-Videos: Bidirectional Alignment for Consistent Dynamic Stereo Matching}, 
-  author={Junpeng Jing and Ye Mao and Krystian Mikolajczyk},
+@inproceedings{jing2024match,
+  title={Match-stereo-videos: Bidirectional alignment for consistent dynamic stereo matching},
+  author={Jing, Junpeng and Mao, Ye and Mikolajczyk, Krystian},
+  booktitle={European Conference on Computer Vision},
+  pages={415--432},
   year={2024},
-  eprint={2403.10755},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV}
+  organization={Springer}
 }
 ```
 ## Acknowledgement
