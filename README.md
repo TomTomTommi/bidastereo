@@ -1,5 +1,5 @@
 <h1 align='center' style="text-align:center; font-weight:bold; font-size:2.0em;letter-spacing:2.0px;">
-Match-Stereo-Videos: <br> Bidirectional Alignment for Consistent Dynamic Stereo Matching<h1>      
+Match-Stereo-Videos: Bidirectional Alignment <br> for Consistent Dynamic Stereo Matching<h1>      
 
 <div align="center">
   <a href="https://arxiv.org/abs/2403.10755" target="_blank" rel="external nofollow noopener">
