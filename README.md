@@ -1,10 +1,13 @@
-# [ECCV 2024] Match-Stereo-Videos: Bidirectional Alignment for Consistent Dynamic Stereo Matching.
+<h1 align='center' style="text-align:center; font-weight:bold; font-size:2.0em;letter-spacing:2.0px;">
+Match-Stereo-Videos: <br> Bidirectional Alignment for Consistent Dynamic Stereo Matching<h1>      
 
-**[Imperial College London](https://www.imperial.ac.uk/)**
-
-[Junpeng Jing](https://tomtomtommi.github.io/), [Ye Mao](https://yebulabula.github.io/), [Krystian Mikolajczyk](https://www.imperial.ac.uk/people/k.mikolajczyk)
-
-[[`Paper`](https://arxiv.org/abs/2403.10755)] [[`Project`](https://tomtomtommi.github.io/BiDAStereo/)]
+<div align="center">
+  <a href="https://arxiv.org/abs/2403.10755" target="_blank" rel="external nofollow noopener">
+  <img src="https://img.shields.io/badge/Paper-arXiv-deepgreen" alt="Paper arXiv"></a>
+  <a href="https://tomtomtommi.github.io/BiDAStereo/" target="_blank" rel="external nofollow noopener">
+  <img src="https://img.shields.io/badge/Project-Page-9cf" alt="Project Page"></a>
+</div>
+</p>
 
 ![Reading](./assets/Reading.gif)
 
